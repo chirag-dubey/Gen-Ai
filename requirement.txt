@@ -1,0 +1,9 @@
+code============>. called name 
+langchain-core → Core LangChain functionality
+langchain-openai → OpenAI integration
+langchain-anthropic → Anthropic/Claude integration
+langchain-google-genai → Google Gemini integration
+langchain-huggingface → Hugging Face integration
+python-dotenv → Load environment variables from .env
+numpy → Numerical/data operations
+scikit-learn → Machine learning utilities
